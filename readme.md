@@ -4,9 +4,10 @@
 
 ## running the cleanup
 
-1) `npm install`
-2) `chmod +x ./src/delete-everything.ts`
-3) `./src/delete-everything.ts`
+1) Make sure you have AWS credentials on your machine
+2) `npm install`
+3) `chmod +x ./src/delete-everything.ts`
+4) `./src/delete-everything.ts`
 
 ## features
 
