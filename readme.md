@@ -1,6 +1,6 @@
 # spotless
 
-For cleaning up your AWS account!
+<img src="./logo.png" alt="For cleaning up your AWS account!">
 
 ## running the cleanup
 
