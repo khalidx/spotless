@@ -1,7 +1,13 @@
 {
   "name": "spotless",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "For cleaning up your AWS account!",
+  "keywords": [
+    "aws",
+    "account",
+    "cleanup",
+    "aws-nuke"
+  ],
   "author": "Khalid Zoabi <kzoabi@outlook.com>",
   "license": "MIT",
   "devDependencies": {
